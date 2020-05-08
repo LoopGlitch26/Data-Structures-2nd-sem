@@ -1,0 +1,296 @@
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+1
+*****************************************************************
+*****************************************************************
+Enter registered number and marks of student using enter key
+1941012445
+98
+Want to enter more nodes?(1 or 0)
+1
+Enter registered number and marks of student using enter key
+1941012446
+88
+Want to enter more nodes?(1 or 0)
+1
+Enter registered number and marks of student using enter key
+1941012786
+58
+Want to enter more nodes?(1 or 0)
+1
+Enter registered number and marks of student using enter key
+1941012980
+94
+Want to enter more nodes?(1 or 0)
+1
+Enter registered number and marks of student using enter key
+1941012987
+67
+Want to enter more nodes?(1 or 0)
+0
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+2
+*****************************************************************
+*****************************************************************
+Student details is as follows:
+--------------------------------------------------------------
+ | Registration No  | Marks  |     Address of next node    | 
+--------------------------------------------------------------
+ |         1941012445       | 98.0  |  Node@1d81eb93  | 
+--------------------------------------------------------------
+--------------------------------------------------------------
+ |         1941012446       | 88.0  |  Node@7291c18f  | 
+--------------------------------------------------------------
+--------------------------------------------------------------
+ |         1941012786       | 58.0  |  Node@34a245ab  | 
+--------------------------------------------------------------
+--------------------------------------------------------------
+ |         1941012980       | 94.0  |  Node@7cc355be  | 
+--------------------------------------------------------------
+--------------------------------------------------------------
+ |         1941012987       | 67.0  |  null  | 
+--------------------------------------------------------------
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+3
+*****************************************************************
+*****************************************************************
+Enter regd no and marks
+1941012345
+22
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+4
+*****************************************************************
+*****************************************************************
+Enter regd no and marks
+1951014768
+99
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+5
+*****************************************************************
+*****************************************************************
+Enter the position where u want node to be inserted
+2
+Enter regd no and marks
+1981012765
+77
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+
+6
+*****************************************************************
+*****************************************************************
+Enter regd no of student u want to update marks
+1941012445
+Node found
+Enter updated marks
+99
+Your request is successful
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+7
+*****************************************************************
+*****************************************************************
+Deletion successful at beginning
+Deleted Node Reg. No:1941012345
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+8
+*****************************************************************
+*****************************************************************
+Deletion successful at last
+Deleted Node Reg. No:1951014768
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+10
+*****************************************************************
+*****************************************************************
+Wait!!!We are sorting the list
+We have sorted the list
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+11
+*****************************************************************
+*****************************************************************
+No of nodes=6
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+12
+*****************************************************************
+*****************************************************************
+Wait!We are reversing your list
+Your list is reversed
+*****************************************************************
+***********************MENU****************************
+0.Exit
+1.Creation
+2.Display
+3.Insert At Beginning
+4.Insert At End
+5.Insert At any position
+6.Search and Update marks w.r.t. Registration Number
+7.Delete At Beginning
+8.Delete At End
+9.Delete At Any Position
+10.Sort the list on basis of marks obtained
+11.Count the no. of nodes present in the list
+12.Reverse the list
+Enter your choice
+0
+*****************************************************************
