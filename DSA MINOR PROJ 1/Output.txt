@@ -1,0 +1,41 @@
+DSA MINOR PROJECT 
+
+Name: Bravish Ghosh
+Regd No: 1941012333
+CSE Sec: Q
+
+Objective: Given two polynomials, represent them by two linked lists and add these lists
+
+For the First polynomial
+Enter the coefficent value 
+3
+Enter the exponent value 
+2
+Enter the coefficent value 
+-4
+Enter the exponent value 
+1
+Enter the coefficent value 
+7
+Enter the exponent value 
+0
+
+For the Second polynomial
+Enter the coefficent value 
+9
+Enter the exponent value 
+1
+Enter the coefficent value 
+2
+Enter the exponent value 
+0
+
+1st Polynomial: 3x^2 + -4x^1 + 7x^0
+2nd Polynomial: 9x^1 + 2x^0
+Resultant Polynomial: 3x^2 + 5x^1 + 9x^0
+
+Press y to continue 
+y
+
+For the First polynomial
+Enter the coefficent value 
